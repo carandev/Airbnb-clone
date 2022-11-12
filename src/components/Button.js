@@ -1,6 +1,8 @@
 import styled from 'styled-components';
 
 export const ButtonContainer = styled.button`
+display: flex;
+gap: .5rem;
 text-transform:capitalize;
 font-size:1.4rem;
 background:transparent;
